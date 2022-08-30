@@ -1,0 +1,24 @@
+{
+  "name": "code-store",
+  "version": "1.0.0",
+  "description": "Exemplo de monolito utilizando conceitos de clean architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run tsc -- --noEmit && jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoRHolanda/code-store.git"
+  },
+  "keywords": [
+    "store",
+    "code",
+    "clean architecture"
+  ],
+  "author": "Bruno R. Holanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoRHolanda/code-store/issues"
+  },
+  "homepage": "https://github.com/BrunoRHolanda/code-store#readme"
+}
